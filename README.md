@@ -1,4 +1,6 @@
 Timeline:
+* 2020/01/30: Robust SKAT analysis to [Obesity: 1,192 case vs 44,381 control](extdata/obesity/)
+* 2020/01/29: Robust SKAT analysis to [Type 2 Diabetes: 2,034 case vs 43,426 control](extdata/T2D/)
 * 2020/01/28: Robust SKAT analysis to [Prostate cancer: 741 case vs 18,940 control](extdata/prostatecancer/)
 * 2020/01/27: Robust SKAT analysis to [Lupus: 57 case vs 5,643 control](extdata/SLE/)
 * 2020/01/26: Robust SKAT analysis to [Rheumatoid arthritis with  493 case and 41,022 control](extdata/RA/)
