@@ -1,6 +1,6 @@
 Timeline:
 
-* 2020/01/25: Robust SKAT analysis to [Rheumatoid arthritis](extdata/Gout/)
+* 2020/01/25: Robust SKAT analysis to [Gout: 352 case / 34,848 control](extdata/Gout/)
 * 2020/01/25: Robust SKAT analysis to [Rheumatoid arthritis and other inflammatory poly-arthropathies](extdata/RA-IPA/)
 * 2020/01/23: Robust SKAT analysis to [Osteoarthrosis](extdata/OA/)
 * 2020/01/22: Robust SKAT analysis to [Rheumatoid arthritis](extdata/RA/)
