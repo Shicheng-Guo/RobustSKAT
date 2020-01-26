@@ -1,6 +1,6 @@
 Timeline:
 
-
+* 2020/02/01: Robust SKAT analysis to [Large cell lymphoma: 56 case vs 5544 control](extdata/Largecelllymphoma/)
 * 2020/01/31: Robust SKAT analysis to [Cancer of urinary organs (incl. kidney and bladder): 421 case vs 41,679 control](extdata/urinarycancer/)
 * 2020/01/30: Robust SKAT analysis to [Obesity: 1,192 case vs 44,381 control](extdata/obesity/)
 * 2020/01/29: Robust SKAT analysis to [Type 2 Diabetes: 2,034 case vs 43,426 control](extdata/T2D/)
