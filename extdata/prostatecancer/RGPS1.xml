@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="DOG 2.0" width="1162" height="585" rate="1.0">
+  <protein vertical="0" horizontal="0" locked="true">
+    <start direction="Down">1</start>
+    <end direction="Down">548</end>
+    <height size="12" color="128,128,128">30</height>
+    <component type="domain">
+      <start direction="Down">46</start>
+      <end direction="Down">288</end>
+      <name direction="Center" size="20" color="255,51,0">RasGEF</name>
+    </component>
+    <component type="domain">
+      <start direction="Down">433</start>
+      <end direction="Down">548</end>
+      <name direction="Down" size="20" color="51,204,0">PH-like</name>
+    </component>
+    <component type="domain">
+      <start direction="Up">1</start>
+      <end direction="Up">23</end>
+      <name direction="Up" size="20" color="0,0,153" />
+    </component>
+    <component type="domain">
+      <start direction="Up">455</start>
+      <end direction="Up">472</end>
+      <name direction="Up" size="20" color="255,255,0" />
+    </component>
+    <component type="site">
+      <position show="false">12</position>
+      <text deltax="12" deltay="50" size="20" color="0,0,153">Signal Peptide</text>
+    </component>
+    <component type="site">
+      <position show="false">17</position>
+      <text deltax="17" deltay="50" size="20" color="0,0,255">rs745393050</text>
+    </component>
+    <component type="site">
+      <position show="false">60</position>
+      <text deltax="60" deltay="50" size="20" color="0,0,153">G60E</text>
+    </component>
+    <component type="site">
+      <position show="false">201</position>
+      <text deltax="186" deltay="50" size="20" color="0,0,255">P201S</text>
+    </component>
+    <component type="site">
+      <position show="false">463</position>
+      <text deltax="463" deltay="50" size="20" color="255,153,0">Transmembrance Region</text>
+    </component>
+    <component type="site">
+      <position show="false">472</position>
+      <text deltax="452" deltay="50" size="20" color="0,0,255">K472N</text>
+    </component>
+    <component type="site">
+      <position show="false">434</position>
+      <text deltax="434" deltay="50" size="20" color="0,0,255">R434W</text>
+    </component>
+  </protein>
+</project>
+

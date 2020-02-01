@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg x="0px" y="0px" width="1162px" height="585px" viewBox="0 0 1162 585" enable-background="new 0 0 1162 585">
+  <linearGradient id="SVGID_10_" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" style="stop-color:#808080" />
+    <stop offset="50%" style="stop-color:#FFFFFF" />
+    <stop offset="100%" style="stop-color:#808080" />
+  </linearGradient>
+  <rect x="233.67227" y="274.57" fill="url(#SVGID_10_)" stroke="#000000" stroke-width="1" width="695.9277" height="34.859997" />
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="233.67227" y1="309.43" x2="233.67227" y2="324.43" />
+  <text font-family="'Arial-BoldMT'" font-size="13" transform="matrix(1 0 0 1 230.17229 336.43)">1</text>
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="929.6" y1="309.43" x2="929.6" y2="324.43" />
+  <text font-family="'Arial-BoldMT'" font-size="13" transform="matrix(1 0 0 1 919.1 336.43)">548</text>
+  <linearGradient id="SVGID_11_" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" style="stop-color:#FF3300" />
+    <stop offset="50%" style="stop-color:#FFFFFF" />
+    <stop offset="100%" style="stop-color:#FF3300" />
+  </linearGradient>
+  <rect x="290.9241" y="274.57" fill="url(#SVGID_11_)" stroke="#000000" stroke-width="1" width="307.88757" height="34.859997" />
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="290.9241" y1="309.43" x2="290.9241" y2="324.43" />
+  <text font-family="'Arial-BoldMT'" font-size="13" transform="matrix(1 0 0 1 283.9241 336.43)">46</text>
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="598.8117" y1="309.43" x2="598.8117" y2="324.43" />
+  <text font-family="'Arial-BoldMT'" font-size="13" transform="matrix(1 0 0 1 588.3117 336.43)">288</text>
+  <text font-family="'Arial-BoldMT'" font-size="23" transform="matrix(1 0 0 1 399.8679 301.33334)">RasGEF</text>
+  <linearGradient id="SVGID_12_" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" style="stop-color:#33CC00" />
+    <stop offset="50%" style="stop-color:#FFFFFF" />
+    <stop offset="100%" style="stop-color:#33CC00" />
+  </linearGradient>
+  <rect x="783.2898" y="274.57" fill="url(#SVGID_12_)" stroke="#000000" stroke-width="1" width="146.31021" height="34.859997" />
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="783.2898" y1="309.43" x2="783.2898" y2="324.43" />
+  <text font-family="'Arial-BoldMT'" font-size="13" transform="matrix(1 0 0 1 772.7898 336.43)">433</text>
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="929.6" y1="309.43" x2="929.6" y2="324.43" />
+  <text font-family="'Arial-BoldMT'" font-size="13" transform="matrix(1 0 0 1 919.1 336.43)">548</text>
+  <text font-family="'Arial-BoldMT'" font-size="23" transform="matrix(1 0 0 1 816.4449 332.43)">PH-like</text>
+  <linearGradient id="SVGID_13_" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" style="stop-color:#000099" />
+    <stop offset="50%" style="stop-color:#FFFFFF" />
+    <stop offset="100%" style="stop-color:#000099" />
+  </linearGradient>
+  <rect x="233.67227" y="274.57" fill="url(#SVGID_13_)" stroke="#000000" stroke-width="1" width="27.98978" height="34.859997" />
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="233.67227" y1="274.57" x2="233.67227" y2="259.57" />
+  <text font-family="'Arial-BoldMT'" font-size="13" transform="matrix(1 0 0 1 230.17229 256.57)">1</text>
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="261.66205" y1="274.57" x2="261.66205" y2="259.57" />
+  <text font-family="'Arial-BoldMT'" font-size="13" transform="matrix(1 0 0 1 254.66206 256.57)">23</text>
+  <text font-family="'Arial-BoldMT'" font-size="23" transform="matrix(1 0 0 1 244.66718 268.57)" />
+  <linearGradient id="SVGID_14_" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" style="stop-color:#FFFF00" />
+    <stop offset="50%" style="stop-color:#FFFFFF" />
+    <stop offset="100%" style="stop-color:#FFFF00" />
+  </linearGradient>
+  <rect x="811.27954" y="274.57" fill="url(#SVGID_14_)" stroke="#000000" stroke-width="1" width="21.628466" height="34.859997" />
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="811.27954" y1="274.57" x2="811.27954" y2="259.57" />
+  <text font-family="'Arial-BoldMT'" font-size="13" transform="matrix(1 0 0 1 800.77954 256.57)">455</text>
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="832.908" y1="274.57" x2="832.908" y2="259.57" />
+  <text font-family="'Arial-BoldMT'" font-size="13" transform="matrix(1 0 0 1 822.408 256.57)">472</text>
+  <text font-family="'Arial-BoldMT'" font-size="23" transform="matrix(1 0 0 1 819.0938 268.57)" />
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="247.66718" y1="274.57" x2="247.66718" y2="259.57" />
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="247.66718" y1="259.57" x2="247.66718" y2="233.9" />
+  <text fill="#000099" font-family="'Arial-BoldMT'" font-size="23" transform="matrix(1 0 0 1 167.16718 228.9)">Signal Peptide</text>
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="254.02847" y1="274.57" x2="254.02847" y2="259.57" />
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="254.02847" y1="259.57" x2="254.02847" y2="233.9" />
+  <text fill="#0000FF" font-family="'Arial-BoldMT'" font-size="23" transform="matrix(1 0 0 1 184.52849 228.9)">rs745393050</text>
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="308.73578" y1="274.57" x2="308.73578" y2="259.57" />
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="308.73578" y1="259.57" x2="308.73578" y2="233.9" />
+  <text fill="#000099" font-family="'Arial-BoldMT'" font-size="23" transform="matrix(1 0 0 1 279.23578 228.9)">G60E</text>
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="488.12482" y1="274.57" x2="488.12482" y2="259.57" />
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="488.12482" y1="259.57" x2="469.0409" y2="233.9" />
+  <text fill="#0000FF" font-family="'Arial-BoldMT'" font-size="23" transform="matrix(1 0 0 1 434.5409 228.9)">P201S</text>
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="821.45764" y1="274.57" x2="821.45764" y2="259.57" />
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="821.45764" y1="259.57" x2="821.45764" y2="233.9" />
+  <text fill="#FF9900" font-family="'Arial-BoldMT'" font-size="23" transform="matrix(1 0 0 1 681.95764 228.9)">Transmembrance Region</text>
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="832.908" y1="274.57" x2="832.908" y2="259.57" />
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="832.908" y1="259.57" x2="807.46277" y2="233.9" />
+  <text fill="#0000FF" font-family="'Arial-BoldMT'" font-size="23" transform="matrix(1 0 0 1 770.96277 228.9)">K472N</text>
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="784.562" y1="274.57" x2="784.562" y2="259.57" />
+  <line fill="#000000" stroke="#000000" stroke-width="1" x1="784.562" y1="259.57" x2="784.562" y2="233.9" />
+  <text fill="#0000FF" font-family="'Arial-BoldMT'" font-size="23" transform="matrix(1 0 0 1 746.062 228.9)">R434W</text>
+</svg>
+
